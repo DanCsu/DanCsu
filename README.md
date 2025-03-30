@@ -2,7 +2,7 @@
 
 Bienvenue sur mon profil GitHub !
 
-Je suis étudiant en deuxième années BTS SIO, option SLAM. Je suis passionné par la programmation, les applications web.
+Je suis étudiant en deuxième année BTS SIO, option SLAM. Je suis passionné par la programmation, les applications web.
 
 ## 🚀 Mes projets
 - [Outils de scraping](https://github.com/DanCsu/Outils_Scraping)
